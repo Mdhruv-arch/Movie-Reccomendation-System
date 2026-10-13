@@ -1,0 +1,6 @@
+{
+  "name": "CineMatch AI — Movie Recommendation System",
+  "description": "Content-based movie recommendation system built with TF-IDF vectorization, cosine similarity, TMDB dataset, interactive ML explainability, and full Python Streamlit portfolio codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
